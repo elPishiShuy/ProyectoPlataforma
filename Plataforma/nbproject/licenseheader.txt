@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}****PLATAFORMA SHUY VERSION****
+${licensePrefix}-VALOR Y CONFIANZA-
+${licensePrefix}Software desarrollado completamente en las poderosas manos de Jose Jesus Garcia Cuadra
+<#if licenseLast??>
+${licenseLast}
+</#if>
